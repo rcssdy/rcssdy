@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Ryan!
 
-I'm a full-stack developer based out of London, England.
+I'm a full-stack developer based out of Istanbul, Turkey
 
 I started writing code ~13 years ago, and I've had the pleasure of working on applications of all shapes and sizes.
 
