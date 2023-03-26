@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Ryan!
 
-I'm a full-stack developer based out of Istanbul, Turkey.
+I'm a full-stack developer based out of London, UK.
 
 I started writing code ~13 years ago, and I've had the pleasure of working on applications of all shapes and sizes.
 
@@ -8,7 +8,7 @@ Right now I primarily work in the world of Typescript / React, and sometimes dab
 
 ### 📋 What am I working on now?
 
-I'm the CTO of a startup in the fintech space, and I've just started out creating content to help new software engineers.
+Mmm, lots of things. I suppose we'll have to wait and see.
 
 <!--
 **rcssdy/rcssdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
