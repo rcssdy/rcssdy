@@ -1,26 +1,7 @@
-## 🚀 Hi, I'm Ryan!
+## Hi there, I'm Ryan 👋🏻
 
-I'm a full-stack developer based out of London, UK.
+I'm a software engineer who is passionate about building sleek, accessible, user-friendly products. Some technologies I enjoy working with include ReactJS, TypeScript, and tRPC.
 
-I started writing code ~13 years ago, and I've had the pleasure of working on applications of all shapes and sizes.
+### What am I working on now?
 
-Right now I primarily work in the world of Typescript / React, and sometimes dabble in C++ and Python (now consciously avoiding PHP, of which I've got **_many years_** under my belt).
-
-### 📋 What am I working on now?
-
-Mmm, lots of things. I suppose we'll have to wait and see.
-
-<!--
-**rcssdy/rcssdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as a Founding Engineer at Santé (YC S23).
