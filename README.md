@@ -4,4 +4,4 @@ I'm a software engineer who is passionate about building sleek, accessible, user
 
 ### What am I working on now?
 
-I am currently working as a Founding Engineer at Santé (YC S23).
+I am currently working on my new company, Synapto Labs.
